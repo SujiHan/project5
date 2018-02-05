@@ -1,0 +1,146 @@
+
+
+body {
+  /* background-color: #fefdff;
+background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23c3c3c9' fill-opacity='1' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E"); */
+width: 100%;
+height: 100%;
+max-width: 100vw;
+position:relative;
+
+}
+
+.background-image {
+    height:auto;
+    left:0;
+    min-height:100%;
+    min-width:1024px;
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index: -1000;
+}
+
+/* p {
+
+    color: black;
+    font: normal normal bold 4.4em/1.1 Helvetica, sans-serif;
+    z-index: -10000;
+} */
+
+
+#dot-matrix {
+    background: url(http://s14.directupload.net/images/111129/44ga9qid.png);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: -111;
+}
+
+
+#draggable {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+
+#draggable2 {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+#draggable3 {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+#draggable4 {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+#draggable5 {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+
+#draggable6 {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+
+#draggable7 {
+  cursor: move;
+  width:100px;
+  height: 100px;
+}
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+}
+
+.one {
+  position:absolute;
+
+margin-left: 700px;
+margin-top: 500px;
+z-index: 6;
+}
+
+.two {
+  position:absolute;
+
+
+  margin-top: 300px;
+margin-left: 650px;
+position: absolute;
+
+
+z-index: 1;
+}
+
+.three{
+  position:absolute;
+
+
+  margin-top: 280px;
+margin-left: 590px;
+position: absolute;
+
+
+z-index: 4;
+
+}
+
+.four{
+  position:absolute;
+  margin-left:470px;
+  margin-top:0px;
+  z-index: 5;
+}
+
+.five{
+  position: absolute;
+  margin-left:780px;
+  margin-top:-30px;
+}
+
+.six{
+  position:absolute;
+  margin-top: 200px;
+  margin-left: 1000px;
+}
+
+.seven{
+  position:absolute;
+  margin-top: -20px;
+  margin-left: 630px;
+  width:50px ;
+}
