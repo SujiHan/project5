@@ -54,6 +54,9 @@ position:relative;
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
+
 }
 #draggable4 {
   cursor: move;
