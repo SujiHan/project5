@@ -43,12 +43,16 @@ position:relative;
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
 }
 
 #draggable2 {
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
 }
 #draggable3 {
   cursor: move;
@@ -62,23 +66,31 @@ position:relative;
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
 }
 #draggable5 {
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
 }
 
 #draggable6 {
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
 }
 
 #draggable7 {
   cursor: move;
   width:100px;
   height: 100px;
+  border: none;
+  background: rgba(255, 0, 0, 0);
 }
 
 img {
